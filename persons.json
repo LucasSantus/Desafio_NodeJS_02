@@ -1,0 +1,27 @@
+
+[
+	{
+		"nome": "Isabelly Stefany Isabelle Vieira",
+		"idade": 20,
+		"altura": "1,59",
+		"peso": 66,
+	},
+	{
+		"nome": "Márcio Diogo da Rosa",
+		"idade": 60,
+		"altura": "1,89",
+		"peso": 57,
+	},
+	{
+		"nome": "Otávio Luiz Lucas Corte Real",
+		"idade": 49,
+		"altura": "1,98",
+		"peso": 67
+	},
+	{
+		"nome": "Priscila Mirella Caldeira",
+		"idade": 61,
+		"altura": "1,56",
+		"peso": 66
+	}
+]
